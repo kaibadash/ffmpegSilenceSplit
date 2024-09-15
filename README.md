@@ -9,3 +9,5 @@
 ```bash
  ./ffmpegSilenceSplit.sh your_audio.m4a
 ```
+
+You can get `your_001.m4a` 〜 `your_nnn.m4a` .
